@@ -2,9 +2,10 @@ The Altman Lab utilizes transcriptional profiling and multi-omics approaches to 
 
 * CAUSE: Childhood Asthma in Urban SEttings
     * Formerly ICAC: Inner-City Asthma Consortium
+    * CHEETAH: MeCHanisms Underlying Asthma Symptoms and Exacerbations Examined Across T2 StAtus in CHildren
     * CRITICAL: CockRoach ImmunoTherapy In Children and AdoLescents
     * MUPPITS: Mechanisms Underlying asthma exacerbations Prevented and Persistent with Immune-based TherapieS
-    * PANDA: Pediatric Anesthesia NeuroDevelopment Assessment
+    * PANDA: Prevention of Asthma exacerbatioNs using Dupilumab in urban children and Adolescents
 * [HIPC](https://immunespace.org/): Human Immunology Project Consortium
 * [IMPACC](https://doi.org/10.1126/sciimmunol.abf3733): IMmuno Phenotyping Assessment in a COVID-19 Cohort
 * [ITN](https://www.immunetolerance.org/): Immune Tolerance Network
